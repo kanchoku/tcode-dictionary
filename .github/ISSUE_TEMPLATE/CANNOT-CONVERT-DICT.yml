@@ -8,6 +8,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        ここに何が変換できなかったか書いてください。
+        このissueでtcodeの辞書で何が変換できなかったかの情報を共有してください。
+  - type: textarea
+    id: cannot-convert-dict
+    attributes:
+      label: dict
+      description: 何が変換できなかったか
+      placeholder: Tell us your conversion!
+      value: "「何が変換できなかったか」に置き換えてください。"
     validations:
       required: true
