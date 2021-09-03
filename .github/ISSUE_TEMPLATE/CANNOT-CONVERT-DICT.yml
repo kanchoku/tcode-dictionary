@@ -1,6 +1,6 @@
 name: tcodeの辞書で何げに変換できないものの報告
 description: tcodeの辞書で何げに変換できないものの改善をGitHub issue formで行う
-title: "[tcode-dict]: REPLACE ME
+title: "[tcode-dict]: REPLACE ME"
 labels: [tcode-dict]
 assignees:
   - naota
